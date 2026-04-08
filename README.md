@@ -14,7 +14,7 @@ Each challenge is organised by platform and, if suitable, by event or category.
 Example:
 
 RootMe/
-- `README.md` → explanation of the challenge and solution  
+- `readme.md` → explanation of the challenge and solution  
 - `solve.py` → script used to solve the challenge  
 
 ## Scripts

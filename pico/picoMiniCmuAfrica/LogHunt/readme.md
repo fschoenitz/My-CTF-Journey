@@ -104,7 +104,7 @@ for snipped in lines:
 print(flag)
 ```
 
-### Console Output
+When running the script in the directory with the `server.log` file, the flag is read out and printed to the console.
 
 ```text
 picoCTF{...}
